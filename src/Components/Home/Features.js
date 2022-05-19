@@ -22,7 +22,7 @@ function Features() {
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-md-5 features-img">
-                            <img src="assets/img/features/feature.png" className="img-fluid" alt="Feature" />
+                            <img src={require("assets/img/features/feature.png")} className="img-fluid" alt="Feature" />
                         </div>
                         <div className="col-md-7">
                             <div className="section-header">
@@ -33,37 +33,37 @@ function Features() {
                                 <Slider {...settings3}>
                                     {/* Slider Item */}
                                     <div className="feature-item text-center">
-                                        <img src="assets/img/features/feature-01.jpg" className="img-fluid" alt="Feature" />
+                                        <img src={require("assets/img/features/feature-01.jpg")} className="img-fluid" alt="Feature" />
                                         <p>Patient Ward</p>
                                     </div>
                                     {/* /Slider Item */}
                                     {/* Slider Item */}
                                     <div className="feature-item text-center">
-                                        <img src="assets/img/features/feature-02.jpg" className="img-fluid" alt="Feature" />
+                                        <img src={require("assets/img/features/feature-02.jpg")} className="img-fluid" alt="Feature" />
                                         <p>Test Room</p>
                                     </div>
                                     {/* /Slider Item */}
                                     {/* Slider Item */}
                                     <div className="feature-item text-center">
-                                        <img src="assets/img/features/feature-03.jpg" className="img-fluid" alt="Feature" />
+                                        <img src={require("assets/img/features/feature-03.jpg")} className="img-fluid" alt="Feature" />
                                         <p>ICU</p>
                                     </div>
                                     {/* /Slider Item */}
                                     {/* Slider Item */}
                                     <div className="feature-item text-center">
-                                        <img src="assets/img/features/feature-04.jpg" className="img-fluid" alt="Feature" />
+                                        <img src={require("assets/img/features/feature-04.jpg")} className="img-fluid" alt="Feature" />
                                         <p>Laboratory</p>
                                     </div>
                                     {/* /Slider Item */}
                                     {/* Slider Item */}
                                     <div className="feature-item text-center">
-                                        <img src="assets/img/features/feature-05.jpg" className="img-fluid" alt="Feature" />
+                                        <img src={require("assets/img/features/feature-05.jpg")} className="img-fluid" alt="Feature" />
                                         <p>Operation</p>
                                     </div>
                                     {/* /Slider Item */}
                                     {/* Slider Item */}
                                     <div className="feature-item text-center">
-                                        <img src="assets/img/features/feature-06.jpg" className="img-fluid" alt="Feature" />
+                                        <img src={require("assets/img/features/feature-06.jpg")} className="img-fluid" alt="Feature" />
                                         <p>Medical</p>
                                     </div>
                                     {/* /Slider Item */}

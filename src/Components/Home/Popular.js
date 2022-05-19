@@ -39,7 +39,7 @@ function Popular() {
                                     <div className="profile-widget">
                                         <div className="doc-img">
                                             <a href="doctor-profile.html">
-                                                <img className="img-fluid" alt="User Image" src="assets/img/doctors/doctor-01.jpg" />
+                                                <img className="img-fluid" alt="User Image" src={require("assets/img/doctors/doctor-01.jpg")} />
                                             </a>
                                             <a href="javascript:void(0)" className="fav-btn">
                                                 <i className="far fa-bookmark" />
@@ -86,7 +86,7 @@ function Popular() {
                                     <div className="profile-widget">
                                         <div className="doc-img">
                                             <a href="doctor-profile.html">
-                                                <img className="img-fluid" alt="User Image" src="assets/img/doctors/doctor-02.jpg" />
+                                                <img className="img-fluid" alt="User Image" src={require("assets/img/doctors/doctor-02.jpg")} />
                                             </a>
                                             <a href="javascript:void(0)" className="fav-btn">
                                                 <i className="far fa-bookmark" />
@@ -133,7 +133,7 @@ function Popular() {
                                     <div className="profile-widget">
                                         <div className="doc-img">
                                             <a href="doctor-profile.html">
-                                                <img className="img-fluid" alt="User Image" src="assets/img/doctors/doctor-03.jpg" />
+                                                <img className="img-fluid" alt="User Image" src={require("assets/img/doctors/doctor-03.jpg")} />
                                             </a>
                                             <a href="javascript:void(0)" className="fav-btn">
                                                 <i className="far fa-bookmark" />
@@ -180,7 +180,7 @@ function Popular() {
                                     <div className="profile-widget">
                                         <div className="doc-img">
                                             <a href="doctor-profile.html">
-                                                <img className="img-fluid" alt="User Image" src="assets/img/doctors/doctor-04.jpg" />
+                                                <img className="img-fluid" alt="User Image" src={require("assets/img/doctors/doctor-04.jpg")} />
                                             </a>
                                             <a href="javascript:void(0)" className="fav-btn">
                                                 <i className="far fa-bookmark" />
@@ -227,7 +227,7 @@ function Popular() {
                                     <div className="profile-widget">
                                         <div className="doc-img">
                                             <a href="doctor-profile.html">
-                                                <img className="img-fluid" alt="User Image" src="assets/img/doctors/doctor-05.jpg" />
+                                                <img className="img-fluid" alt="User Image" src={require("assets/img/doctors/doctor-05.jpg")} />
                                             </a>
                                             <a href="javascript:void(0)" className="fav-btn">
                                                 <i className="far fa-bookmark" />
@@ -274,7 +274,7 @@ function Popular() {
                                     <div className="profile-widget">
                                         <div className="doc-img">
                                             <a href="doctor-profile.html">
-                                                <img className="img-fluid" alt="User Image" src="assets/img/doctors/doctor-06.jpg" />
+                                                <img className="img-fluid" alt="User Image" src={require("assets/img/doctors/doctor-06.jpg")} />
                                             </a>
                                             <a href="javascript:void(0)" className="fav-btn">
                                                 <i className="far fa-bookmark" />
@@ -321,7 +321,7 @@ function Popular() {
                                     <div className="profile-widget">
                                         <div className="doc-img">
                                             <a href="doctor-profile.html">
-                                                <img className="img-fluid" alt="User Image" src="assets/img/doctors/doctor-07.jpg" />
+                                                <img className="img-fluid" alt="User Image" src={require("assets/img/doctors/doctor-07.jpg")} />
                                             </a>
                                             <a href="javascript:void(0)" className="fav-btn">
                                                 <i className="far fa-bookmark" />
@@ -368,7 +368,7 @@ function Popular() {
                                     <div className="profile-widget">
                                         <div className="doc-img">
                                             <a href="doctor-profile.html">
-                                                <img className="img-fluid" alt="User Image" src="assets/img/doctors/doctor-08.jpg" />
+                                                <img className="img-fluid" alt="User Image" src={require("assets/img/doctors/doctor-08.jpg")} />
                                             </a>
                                             <a href="javascript:void(0)" className="fav-btn">
                                                 <i className="far fa-bookmark" />

@@ -33,7 +33,7 @@ function Clinics() {
                                 <Slider {...settings}>
                                     <div className="speicality-item text-center">
                                         <div className="speicality-img">
-                                            <img src="assets/img/specialities/specialities-01.png" className="img-fluid" alt="Speciality" />
+                                            <img src={require("assets/img/specialities/specialities-01.png")} className="img-fluid" alt="Speciality" />
                                             <span><i className="fa fa-circle" aria-hidden="true" /></span>
                                         </div>
                                         <p>Urology</p>
@@ -42,7 +42,7 @@ function Clinics() {
                                     {/* Slider Item */}
                                     <div className="speicality-item text-center">
                                         <div className="speicality-img">
-                                            <img src="assets/img/specialities/specialities-02.png" className="img-fluid" alt="Speciality" />
+                                            <img src={require("assets/img/specialities/specialities-02.png")} className="img-fluid" alt="Speciality" />
                                             <span><i className="fa fa-circle" aria-hidden="true" /></span>
                                         </div>
                                         <p>Neurology</p>
@@ -51,7 +51,7 @@ function Clinics() {
                                     {/* Slider Item */}
                                     <div className="speicality-item text-center">
                                         <div className="speicality-img">
-                                            <img src="assets/img/specialities/specialities-03.png" className="img-fluid" alt="Speciality" />
+                                            <img src={require("assets/img/specialities/specialities-03.png")} className="img-fluid" alt="Speciality" />
                                             <span><i className="fa fa-circle" aria-hidden="true" /></span>
                                         </div>
                                         <p>Orthopedic</p>
@@ -60,7 +60,7 @@ function Clinics() {
                                     {/* Slider Item */}
                                     <div className="speicality-item text-center">
                                         <div className="speicality-img">
-                                            <img src="assets/img/specialities/specialities-04.png" className="img-fluid" alt="Speciality" />
+                                            <img src={require("assets/img/specialities/specialities-04.png")} className="img-fluid" alt="Speciality" />
                                             <span><i className="fa fa-circle" aria-hidden="true" /></span>
                                         </div>
                                         <p>Cardiologist</p>
@@ -69,7 +69,7 @@ function Clinics() {
                                     {/* Slider Item */}
                                     <div className="speicality-item text-center">
                                         <div className="speicality-img">
-                                            <img src="assets/img/specialities/specialities-05.png" className="img-fluid" alt="Speciality" />
+                                            <img src={require("assets/img/specialities/specialities-05.png")} className="img-fluid" alt="Speciality" />
                                             <span><i className="fa fa-circle" aria-hidden="true" /></span>
                                         </div>
                                         <p>Dentist</p>
