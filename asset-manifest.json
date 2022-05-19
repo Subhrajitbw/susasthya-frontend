@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b2c63f2.css",
-    "main.js": "/static/js/main.1fcf998e.js",
-    "static/js/787.fa4bc9d7.chunk.js": "/static/js/787.fa4bc9d7.chunk.js",
-    "static/media/MaterialIcons-Regular.eot": "/static/media/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
-    "static/media/MaterialIcons-Regular.ttf": "/static/media/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
-    "static/media/search-bg.png": "/static/media/search-bg.681ba0633d04b610a50b.png",
-    "static/media/MaterialIcons-Regular.woff": "/static/media/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
-    "service-worker.js": "/service-worker.js",
-    "static/media/MaterialIcons-Regular.html": "/static/media/MaterialIcons-Regular.cff684e59ffb052d72cb.html",
-    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/index.html",
-    "static/media/down-arrow-svgrepo-com.svg": "/static/media/down-arrow-svgrepo-com.600ee40a8482d49a28d3.svg",
-    "main.3b2c63f2.css.map": "/static/css/main.3b2c63f2.css.map",
-    "main.1fcf998e.js.map": "/static/js/main.1fcf998e.js.map",
-    "787.fa4bc9d7.chunk.js.map": "/static/js/787.fa4bc9d7.chunk.js.map"
+    "main.css": "/susasthya/static/css/main.62b434d1.css",
+    "main.js": "/susasthya/static/js/main.80f1cef4.js",
+    "static/js/787.fa4bc9d7.chunk.js": "/susasthya/static/js/787.fa4bc9d7.chunk.js",
+    "static/media/MaterialIcons-Regular.eot": "/susasthya/static/media/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
+    "static/media/MaterialIcons-Regular.ttf": "/susasthya/static/media/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
+    "static/media/search-bg.png": "/susasthya/static/media/search-bg.681ba0633d04b610a50b.png",
+    "service-worker.js": "/susasthya/service-worker.js",
+    "static/media/MaterialIcons-Regular.woff": "/susasthya/static/media/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
+    "static/media/MaterialIcons-Regular.html": "/susasthya/static/media/MaterialIcons-Regular.cff684e59ffb052d72cb.html",
+    "static/media/logo.svg": "/susasthya/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/susasthya/index.html",
+    "static/media/down-arrow-svgrepo-com.svg": "/susasthya/static/media/down-arrow-svgrepo-com.600ee40a8482d49a28d3.svg",
+    "main.62b434d1.css.map": "/susasthya/static/css/main.62b434d1.css.map",
+    "main.80f1cef4.js.map": "/susasthya/static/js/main.80f1cef4.js.map",
+    "787.fa4bc9d7.chunk.js.map": "/susasthya/static/js/787.fa4bc9d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b2c63f2.css",
-    "static/js/main.1fcf998e.js"
+    "static/css/main.62b434d1.css",
+    "static/js/main.80f1cef4.js"
   ]
 }
