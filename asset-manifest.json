@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/susasthya/static/css/main.62b434d1.css",
-    "main.js": "/susasthya/static/js/main.80f1cef4.js",
+    "main.js": "/susasthya/static/js/main.d6db54ca.js",
     "static/js/787.fa4bc9d7.chunk.js": "/susasthya/static/js/787.fa4bc9d7.chunk.js",
     "static/media/MaterialIcons-Regular.eot": "/susasthya/static/media/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
     "static/media/MaterialIcons-Regular.ttf": "/susasthya/static/media/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
@@ -13,11 +13,11 @@
     "index.html": "/susasthya/index.html",
     "static/media/down-arrow-svgrepo-com.svg": "/susasthya/static/media/down-arrow-svgrepo-com.600ee40a8482d49a28d3.svg",
     "main.62b434d1.css.map": "/susasthya/static/css/main.62b434d1.css.map",
-    "main.80f1cef4.js.map": "/susasthya/static/js/main.80f1cef4.js.map",
+    "main.d6db54ca.js.map": "/susasthya/static/js/main.d6db54ca.js.map",
     "787.fa4bc9d7.chunk.js.map": "/susasthya/static/js/787.fa4bc9d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62b434d1.css",
-    "static/js/main.80f1cef4.js"
+    "static/js/main.d6db54ca.js"
   ]
 }
